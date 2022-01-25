@@ -1,8 +1,8 @@
 # Fruits
-## Introduction:
+## Introduction
 SwiftUI 2.0 is shipped with a brand-new life cycle management API for apps built with SwiftUI let us write our entire app in SwiftUI and share even more code across all Apple platforms. It's providing faster performance, better diagnostics, and access to new controls.
 
-### Objectives:
+### Objectives
 -	How to use the new AppStorage in SwiftUI 2.0
 -	How to save and load data using UserDefaults
 -	How to create custom Views with SwiftUI
