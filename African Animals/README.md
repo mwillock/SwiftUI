@@ -1,6 +1,6 @@
 # Safari
 
-### Objectives
+### Objective
 
 -	JSON with Swift (basic and advanced approach),
 -	Grid Layouts (basic and advanced approach with a cool feature),
