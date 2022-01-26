@@ -14,3 +14,4 @@
 -	Learn what is Pseudocode and why it is important,
 -	What is a Bundle and Extension in app development and how to use them, etc.
 
+![SA-2](https://user-images.githubusercontent.com/33471032/151093103-e8ba847f-5410-4069-bbc7-7d58563d2cd0.gif)
