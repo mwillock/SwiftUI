@@ -15,6 +15,4 @@ Let’s develop together a modern E-commerce mobile application with the SwiftUI
 
 
 
-
-Uploading Jan-25-2022 16-05-04.mp4…
-
+![TD](https://user-images.githubusercontent.com/33471032/151092499-8d439221-794c-44fa-86b3-b134da31bd3d.gif)
