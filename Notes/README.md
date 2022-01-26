@@ -14,3 +14,5 @@ Developing a modern Notes application for Apple watches. By creating this app, w
 -	How to develop a new feature using SwiftUI's Slider element
 -	How to create custom user interface elements
 -	How to use the input tools: Dictate, Scribble, Emoji, Type
+
+![Notes3](https://user-images.githubusercontent.com/33471032/151091776-c94d7f24-d6c9-4976-8065-5f288b8fc753.gif)
